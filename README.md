@@ -1,4 +1,4 @@
-# CPSC 231 
+# CPSC 231 F18
 Booksite library from https://introcs.cs.princeton.edu/python/code/
 ## Made with:
 Python 3
